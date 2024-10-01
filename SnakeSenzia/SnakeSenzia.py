@@ -134,3 +134,5 @@ next_turn(snake, food)
 
 
 window.mainloop()
+
+# Happy Snake Senzia 🐍
