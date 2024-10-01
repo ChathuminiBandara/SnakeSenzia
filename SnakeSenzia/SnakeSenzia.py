@@ -1,5 +1,3 @@
-from importlib.resources import files
-from tabnanny import check
 from tkinter import *
 import random
 
