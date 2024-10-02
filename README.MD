@@ -64,8 +64,8 @@
 
 ## Gameplay
 
-<img alt="Snake Senzia" height="400px" src="Game.png" width="400px"/>
-<img alt="Snake Senzia" height="400px" src="SnakeSenzia/GameOver.png" width="400px"/>
+<img alt="Snake Senzia" height="300px" src="Game.png" width="300px"/>
+<img alt="Snake Senzia" height="300px" src="SnakeSenzia/GameOver.png" width="300px"/>
 
 As the game progresses, the snake grows longer, and it becomes more challenging to avoid collisions. The game ends when you hit a wall or your own body, displaying the "GAME OVER" screen.
 
